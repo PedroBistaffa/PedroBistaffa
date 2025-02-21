@@ -1,18 +1,31 @@
-#**Olá me chamo Pedro Bistaffa**
-
-Estou iniciando no mundo da programção buscando novo horizontes e crescer na carreira de programador.
-
-## **Sobre mim**
-
-- Sou formado no curso de programação em Python pelo Senai de Presidente Prudente - SP
-- Cursando desenvolvedor Full Stack no Senac de Presidente Prudente - SP
-- Javascript
-- Trabalho em equipe
-- Front end
-- Back end
-- Analise de dados
+# Olá, eu sou Pedro Bistaffa!
 
 
+Sou um desenvolvedor fullstack apaixonado por criar soluções digitais que combinam design atraente e funcionalidade robusta. Com experiência em **HTML**, **CSS**, **JavaScript**, **Node.js**, **React** e prototipação de interfaces com **Figma**, estou sempre buscando aprender e aplicar as melhores práticas para entregar projetos de alta qualidade.
+### 🛠️ Tecnologias e Ferramentas:
+**Frontend**:
+- HTML;
+- CSS;
+- JavaScript;
+- React;
+- Bootstrap.
+
+**Backend**:
+- Node.js;
+-  Express;
+-  EST APIs.
+
+**Banco de Dados:** 
+- MongoDB;
+- MySQL;
+- Firebase.
+
+**Ferramentas de Design:** 
+- Figma.
+  
+ **Versionamento:**
+ - Git;
+ - GitHub.
 
 <!--
 **PedroBistaffa/PedroBistaffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
